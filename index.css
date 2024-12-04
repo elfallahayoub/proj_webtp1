@@ -29,11 +29,17 @@ background-color: green;
    flex-direction: column;
    margin-bottom: 10px;   
 }
-.divmère2
+.divmère3
 {
    display: flex; 
    flex-direction: row;
    margin-bottom: 10px; 
 
 }
+.divmère4
+{
+   display: flex; 
+   flex-direction: row-reverse;
+   margin-bottom: 10px; 
 
+}
